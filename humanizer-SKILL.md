@@ -86,3 +86,4 @@ If an item fails, revise the draft. Do not just append a sentence to tick the bo
 - This skill changes **narrative structure**. For line-level polish, also apply the user's usual style rules.
 - It is not a detector-evasion tool. The goal is writing that reads as distinctly human, not gaming a classifier.
 - Source: Russell et al., "StoryScope: Investigating idiosyncrasies in AI fiction", arXiv 2604.03136. https://arxiv.org/abs/2604.03136
+
